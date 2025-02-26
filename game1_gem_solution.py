@@ -1,17 +1,18 @@
 # /////////// INSTRUCTIONS /////////////////
 # 👾 Let's make a game!
-
-# 💻️⃣ Run the file to see how it works. 
-#     It's up to you to finish the game!
-#
-# 💻️⃣ Add in your own charachter sprite!
 # 
-# ✅ enusre these features work
+# 1️⃣ Run the file & install
+#    - in the Terminal run the command: pip3 install pyzero
+#    - play the game
+#
+# 2️⃣ Add in your own charachter sprite!
+# 
+# 3️⃣ Add these features in the game
 #     - left and up arrow keys move the charachter
 #     - score increases when you collect a gem
 #     - the gem moves to a random location, every time it is collected
 # 
-# ✅ extension feature ideas
+# 4️⃣ extension feature ideas
 #     - timer : user must collect gems in 30s or less 
 #     - power ups: increaser user's speed 
 #     - obstacles: if uesr hits the game is over
