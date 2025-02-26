@@ -2,7 +2,7 @@
 # 👾 Let's make a game!
 # 
 # 1️⃣ Run the file & install
-#    - in the Terminal run the command: pip3 install pyzero
+#    - in the Terminal run the command: pip3 install pgzero
 #    - play the game
 #
 # 2️⃣ Add in your own charachter sprite!
