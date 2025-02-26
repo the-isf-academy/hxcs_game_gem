@@ -24,6 +24,9 @@ import pgzrun
 from helpers import *
 from random import randint
 
+pygame.init()
+pygame.display.init()
+
 # sets size of screen width
 WIDTH = 500
 # sets size of screen height
