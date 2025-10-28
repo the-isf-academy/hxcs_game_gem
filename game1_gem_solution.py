@@ -2,7 +2,11 @@
 # 👾 Let's make a game!
 # 
 # 1️⃣ Run the file & install
-#    - in the Terminal run the command: pip3 install pgzero
+#    - in the Terminal run the commands: 
+#.          python -m venv my_project_env
+#           source my_project_env/bin/activate
+#           pip3 install pgzero
+
 #    - play the game
 #
 # 2️⃣ Add in your own charachter sprite!
@@ -36,7 +40,7 @@ HEIGHT = 500
 BACKGROUND_COLOR = (149, 161, 171)
 
 # creates a player sprite
-player = Actor(image='alien.png', anchor=('center', 'bottom'))
+player = Actor(image='face.png', anchor=('center', 'bottom'))
 player.scale = .5        # scales the sprite image
 player.x = 250          # sets the start X position
 player.y = 250          # sets the start Y position
