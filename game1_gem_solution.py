@@ -3,7 +3,7 @@
 # 
 # 1️⃣ Run the file & install
 #    - in the Terminal run the commands: 
-#.          python -m venv my_project_env
+#.          python3 -m venv my_project_env
 #           source my_project_env/bin/activate
 #           pip3 install pgzero
 #
