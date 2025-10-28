@@ -6,7 +6,7 @@
 #.          python -m venv my_project_env
 #           source my_project_env/bin/activate
 #           pip3 install pgzero
-
+#
 #    - play the game
 #
 # 2️⃣ Add in your own charachter sprite!
